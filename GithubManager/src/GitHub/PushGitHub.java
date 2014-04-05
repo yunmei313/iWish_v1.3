@@ -7,7 +7,7 @@ import org.eclipse.jgit.errors.ConfigInvalidException;
 import org.eclipse.jgit.lib.Config;
 
 
-public class PushGitHub {
+public class PushGitHub {//
 	private Config config;
         
 
